@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Javascript, Python etc!**
 
-- 💬 Ask me about **Web Development, App Development & stuff!**
+- 💬 Ask me about **Web Development, App Development, AI & stuff!**
 
 - 📫 How to reach me **shihabhasan0161@gmail.com**
 
