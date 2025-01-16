@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/shihabhasan0161" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2F78hs31fax49uwy6kbxyw.png)" alt="shihabhasan0161" height="30" width="40" /></a>
+<a href="https://dev.to/shihabhasan0161" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg](https://d2fltix0v2e0sb.cloudfront.net/dev-black.png)" alt="shihabhasan0161" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shihab-hasan-8444b2204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shihab-hasan-8444b2204/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shihabhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shihabhasan" height="30" width="40" /></a>
 </p>
