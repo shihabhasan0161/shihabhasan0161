@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Javascript, Python etc!**
 
-- 💬 Ask me about **Web Development, App Development & stuff!**
+- 💬 Ask me about **Web Development, App Development, AI & stuff!**
 
 - 📫 Connect with me now **https://www.linkedin.com/in/shihab-hasan-8444b2204/**
 
