@@ -1,7 +1,7 @@
 ## Hey! Please get to know me:) 👋
 
 <h1 align="center">Hi 👋, I'm Shihab Hasan</h1>
-<h3 align="center">I'm a second-year CS student passionate about learning and exploring the world of technology. Through my coursework and personal projects, I'm building a foundation in programming languages including Java, JavaScript, and Python.</h3>
+<h3 align="center">I'm a CS student passionate about learning and exploring the world of technology. Through my coursework and personal projects, I'm building a foundation in programming languages including Java, JavaScript, and Python.</h3>
 
 - 🌱 I’m currently learning **Java, Javascript, Python etc!**
 
