@@ -8,7 +8,7 @@
   </ul>
 </div>
 
-**<h3 align="left">I'm a CS student passionate about learning and exploring the world of technology. Through my coursework and personal projects, I'm building a foundation in programming languages including Java, JavaScript, and Python..</h3>**
+**<h3 align="left">I'm a CS student passionate about learning and exploring the world of technology. Through my coursework and personal projects, I'm building a foundation in programming languages including Java, JavaScript, and Python.</h3>**
 
 **<h3 align="left">GitHub Stats</h3>**
 
