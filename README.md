@@ -10,17 +10,7 @@
 
 **<h3 align="left">I'm a CS student passionate about learning and exploring the world of technology. Through my coursework and personal projects, I'm building a foundation in programming languages including Java, JavaScript, and Python.</h3>**
 
-**<h3 align="left">GitHub Stats</h3>**
-
-<!-- <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shihabhasan0161&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-</p> -->
-<p align="left">
-  <img width="48%" src="https://streak-stats.vercel.app?user=shihabhasan0161&theme=react" alt="GitHub Streak" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihabhasan0161&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
-
-**<h3 align="left">Skills</h3>**
+**<h3 align="left">Languages and Tools</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
 <img src="https://img.shields.io/badge/JavaScript-21232A?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> 
