@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/HTML-21232A?logo=html&logoColor=white" height="28" alt="HTML" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/CSS-21232A?logo=css&logoColor=white" height="28" alt="CSS" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/Node.js-21232A?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px">
-<img src="https://img.shields.io/badge/Shell-21232A?logo=gnu-bash&logoColor=white" height="28" alt="Shell" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/React-21232A?logo=gnu-bash&logoColor=white" height="28" alt="React" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/MySQL-21232A?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-21232A?logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code" style="margin-right: 4px"></div>
 
