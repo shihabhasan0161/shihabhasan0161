@@ -18,7 +18,7 @@ Computer Science student who loves exploring coding, data, and math. Always curi
 
 - **Languages:** Python, Java, JavaScript, SQL, HTML5/CSS3
 - **Libraries/Frameworks:** Flask, pandas, numpy, matplotlib, seaborn, Node.js, React.js
-- **Tools:** Git, GitHub, VS Code, Linux, Vercel, Excel, Tableau, Power BI
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Linux, Vercel, Excel, Tableau, Power BI
 
 ---
 
