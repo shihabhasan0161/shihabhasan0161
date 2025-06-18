@@ -16,8 +16,8 @@ A Computer Science student who loves exploring coding, data, and math. Always cu
 
 <h3 align="left">🛠️ Skills and Technologies</h3>
 
-- **Languages:** Python, Java, JavaScript, SQL, HTML5/CSS3
-- **Libraries/Frameworks:** Flask, pandas, numpy, matplotlib, seaborn, Node.js, React.js
+- **Languages:** Python, Java, JavaScript, TypeScript, SQL, HTML5/CSS3
+- **Libraries/Frameworks:** React, Django, pandas, numpy, matplotlib, seaborn, Node.js
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Linux, Vercel, Excel, Tableau, Power BI
 
 ---
