@@ -9,16 +9,16 @@
 <h3 align="left">About Me</h3>
 
 <p align="left">
-A Computer Science student who loves exploring coding, data, and math. Always curious and constantly learning something new.
+I am a Computer Science student passionate about coding, data, and math. Always curious and constantly learning something new.
 </p>
 
 ---
 
-<h3 align="left">🛠️ Skills and Technologies</h3>
+<h3 align="left">🛠️ Skills and Tech</h3>
 
-- **Languages:** Python, Java, JavaScript, TypeScript, SQL, HTML5/CSS3
-- **Libraries/Frameworks:** React, Django, pandas, numpy, matplotlib, seaborn, Node.js
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Linux, Vercel, Excel, Tableau, Power BI
+- **Languages:** Java, Python, JavaScript, TypeScript, SQL, HTML, CSS
+- **Libraries/Frameworks:** React, Spring Boot, Django, Node.js, Next.js
+- **Database & Tools:** Git, GitHub, Postman, Postgresql, MongoDB, Supabase, VS Code, Intellij IDEA, Vercel, Netlify
 
 ---
 
