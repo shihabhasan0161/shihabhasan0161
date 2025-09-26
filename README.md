@@ -9,7 +9,7 @@
 <h3 align="left">About Me</h3>
 
 <p align="left">
-I am a Computer Science student passionate about coding, data, and math. Always curious and constantly learning something new.
+Computer Science student exploring AI and Software Development.
 </p>
 
 ---
