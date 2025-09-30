@@ -17,7 +17,7 @@ Computer Science student exploring AI and Software Development.
 <h3 align="left">🛠️ Skills and Tech</h3>
 
 - **Languages:** Java, Python, JavaScript, TypeScript, SQL, HTML, CSS
-- **Libraries/Frameworks:** React, Spring Boot, Django, Node.js, Next.js
+- **Libraries/Frameworks:** React, Spring Boot, Django, Node.js
 - **Database & Tools:** Git, GitHub, Postman, Postgresql, MongoDB, Supabase, VS Code, Intellij IDEA, Vercel, Netlify
 
 ---
