@@ -18,7 +18,7 @@ Computer Science student exploring AI and Software Development.
 
 - **Languages:** Java, Python, JavaScript, TypeScript, SQL, HTML, CSS
 - **Libraries/Frameworks:** React, Spring Boot, Django, Node.js
-- **Database & Tools:** Git, GitHub, Postman, Postgresql, MongoDB, Supabase, VS Code, Intellij IDEA, Netlify
+- **Database & Tools:** Git, GitHub, Postman, Docker, Postgresql, MongoDB, Supabase, VS Code, Intellij IDEA, Netlify
 
 ---
 
