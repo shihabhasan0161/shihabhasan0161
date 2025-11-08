@@ -1,7 +1,7 @@
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
-      <h1>👋 Hi, I'm Shihab Hasan</h1>
+      <h1>👋 Hi, I'm Shihab</h1>
     </summary>
   </ul>
 </div>
@@ -16,9 +16,11 @@ Computer Science student exploring AI and Software Development.
 
 <h3 align="left">🛠️ Skills and Tech</h3>
 
-- **Languages:** Java, Python, JavaScript, TypeScript, SQL, HTML, CSS
-- **Libraries/Frameworks:** React, Spring Boot, Django, Node.js
-- **Database & Tools:** Git, GitHub, Postman, Docker, Postgresql, MongoDB, Supabase, VS Code, Intellij IDEA, Netlify
+**Languages:** Java, Python, JavaScript, Typescript, C++, SQL, HTML, CSS  
+**Libraries/Frameworks:** Spring Boot, Django, Flask, React, Node.js, JUnit, Tailwind CSS  
+**AI/ML:** Jupyter, NumPy, Pandas, Matplotlib, scikit-learn, MCP, OpenAI, Gemini AI, Groq AI  
+**Databases:** MySQL, PostgreSQL, MongoDB, Firebase, Supabase  
+**DevOps/Tools:** Git, GitHub, Azure, AWS, GCP, Docker, Kubernetes, Postman, Render, Netlify, Microsoft Office
 
 ---
 
