@@ -1,26 +1,26 @@
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
-      <h1>👋 Hi, I'm Shihab</h1>
+      <h1>👋 Hi there! I'm Shihab</h1>
     </summary>
   </ul>
 </div>
 
-<h3 align="left">About Me</h3>
+<h3 align="left"> 💻About Me</h3>
 
 <p align="left">
-Computer Science student exploring AI and Software Development.
+With hands-on internship experience and as a Computer Science student, I’m dedicated to developing software solutions that bridge technology with real-world needs. My expertise spans backend, frontend, and full-stack development, enabling me to contribute to projects ranging from early-stage prototypes to production-ready systems. I focus on writing clean, maintainable code and building user-centric, scalable solutions while thriving in environments that prioritize innovation and continuous learning.
 </p>
 
 ---
 
-<h3 align="left">🛠️ Skills and Tech</h3>
+<h3 align="left">🛠️ Technical Skills</h3>
 
-**Languages:** Java, Python, JavaScript, Typescript, C++, SQL, HTML, CSS  
-**Libraries/Frameworks:** Spring Boot, Django, Flask, React, Node.js, JUnit, Tailwind CSS  
-**AI/ML:** Jupyter, NumPy, Pandas, Matplotlib, scikit-learn, MCP, OpenAI, Gemini AI, Groq AI  
+**Languages:** Java, Python, JavaScript/Typescript, SQL, HTML/CSS  
+**Libraries/Frameworks:** Spring Boot, Django, React, Node.js, Tailwind CSS  
+**Exploring AI/ML:** Jupyter, NumPy, Pandas, Matplotlib, Tensorflow, MCP, OpenAI, Gemini AI, Groq AI  
 **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, Supabase  
-**DevOps/Tools:** Git, GitHub, Azure, AWS, GCP, Docker, Kubernetes, Postman, Render, Netlify, Microsoft Office
+**DevOps/Tools:** Git, GitHub, AWS, GCP, Docker, Postman, Render/Netlify/Vercel
 
 ---
 
