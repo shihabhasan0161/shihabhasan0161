@@ -9,7 +9,7 @@
 <h3 align="left"> 💻About Me</h3>
 
 <p align="left">
-With hands-on internship experience and as a Computer Science student, I’m dedicated to developing software solutions that bridge technology with real-world needs. My expertise spans backend, frontend, and full-stack development, enabling me to contribute to projects ranging from early-stage prototypes to production-ready systems. I focus on writing clean, maintainable code and building user-centric, scalable solutions while thriving in environments that prioritize innovation and continuous learning.
+With hands-on internship experience and as a Computer Science student, I’m dedicated to developing software solutions that bridge technology with real-world needs. My expertise spans backend, frontend, and full-stack development, enabling me to contribute to projects ranging from early-stage prototypes to production-ready systems. I focus on writing clean, reusable code and building user-centric, scalable solutions while thriving in environments that prioritize innovation and continuous learning.
 </p>
 
 ---
@@ -17,15 +17,16 @@ With hands-on internship experience and as a Computer Science student, I’m ded
 <h3 align="left">🛠️ Technical Skills</h3>
 
 **Languages:** Java, Python, JavaScript/Typescript, SQL, HTML/CSS  
-**Libraries/Frameworks:** Spring Boot, Django, React, Node.js, Tailwind CSS  
-**Exploring AI/ML:** Jupyter, NumPy, Pandas, Matplotlib, Tensorflow, MCP, OpenAI, Gemini AI, Groq AI  
+**Libraries/Frameworks:** Spring Boot, Django, React, Node.js, ExpressJS, Tailwind CSS  
+**AI/ML:** NumPy, Pandas, Matplotlib, n8n, MCP, OpenAI, Claude, Gemini AI, Groq AI  
 **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, Supabase  
-**DevOps/Tools:** Git, GitHub, AWS, GCP, Docker, Postman, Render/Netlify/Vercel
+**DevOps/Tools:** Git, GitHub, VSCode, IntelliJ IDEA, Jupyter Notebook, AWS, GCP, Docker, Postman, Render/Netlify/Vercel
 
 ---
 
 <h3 align="left">📫 Connect with Me</h3>
 
+- [Website](https://shihabhasan0161.github.io/)
 - [GitHub](https://github.com/shihabhasan0161)
 - [LinkedIn](https://www.linkedin.com/in/shihab-hasan-8444b2204/)
 
