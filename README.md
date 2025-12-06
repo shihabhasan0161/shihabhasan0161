@@ -17,8 +17,9 @@ With hands-on internship experience and as a Computer Science student, I’m ded
 <h3 align="left">🛠️ Technical Skills</h3>
 
 **Languages:** Java, Python, JavaScript/Typescript, SQL, HTML/CSS  
-**Libraries/Frameworks:** Spring Boot, Django, React, Node.js, ExpressJS, Tailwind CSS  
-**AI/ML:** NumPy, Pandas, Matplotlib, n8n, MCP, OpenAI, Claude, Gemini AI, Groq AI  
+**Backend:** Spring Boot, Django, NodeJS  
+**Frontend:** React, NextJS, Tailwind CSS  
+**AI/ML:** NumPy, Pandas, Matplotlib, OpenCV, n8n, MCP  
 **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, Supabase  
 **DevOps/Tools:** Git, GitHub, VSCode, IntelliJ IDEA, Jupyter Notebook, AWS, GCP, Docker, Postman, Render/Netlify/Vercel
 
