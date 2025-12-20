@@ -19,9 +19,9 @@ With hands-on internship experience and as a Computer Science student, I’m ded
 **Languages:** Java, Python, JavaScript/Typescript, SQL, HTML/CSS  
 **Backend:** Spring Boot, Django, NodeJS  
 **Frontend:** React, NextJS, Tailwind CSS  
-**AI/ML:** NumPy, Pandas, Matplotlib, OpenCV, n8n, MCP  
+**AI/ML:** NumPy, Pandas, Matplotlib, n8n, MCP  
 **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, Supabase  
-**DevOps/Tools:** Git, GitHub, VSCode, IntelliJ IDEA, Jupyter Notebook, AWS, GCP, Docker, Postman, Render/Netlify/Vercel
+**DevOps/Tools:** Git, GitHub, npm, vite, AWS, GCP, Docker, Postman, Render/Netlify/Vercel
 
 ---
 
