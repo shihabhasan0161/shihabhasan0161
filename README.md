@@ -16,19 +16,17 @@ With hands-on internship experience and as a Computer Science student, I’m ded
 
 <h3 align="left">🛠️ Technical Skills</h3>
 
-**Languages:** Java, Python, JavaScript/Typescript, SQL, HTML/CSS  
-**Backend:** Spring Boot, Django, NodeJS  
-**Frontend:** React, NextJS, Tailwind CSS  
-**AI/ML:** NumPy, Pandas, Matplotlib, n8n, MCP  
+**Front End:** React, NextJS, JavaScript, Typescript, HTML, CSS  
+**Back End:** NodeJS, Python, Django, Java, Spring Boot  
 **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, Supabase  
-**DevOps/Tools:** Git, GitHub, npm, vite, AWS, GCP, Docker, Postman, Render/Netlify/Vercel
+**Developer Tools:** Git, GitHub, Postman, Docker, Postman, Render
+
+**Exploring AI/ML:** NumPy, Pandas, OpenCV, scikit-learn, n8n, MCP  
 
 ---
 
 <h3 align="left">📫 Connect with Me</h3>
 
-- [Website](https://shihabhasan0161.github.io/)
-- [GitHub](https://github.com/shihabhasan0161)
 - [LinkedIn](https://www.linkedin.com/in/shihab-hasan-8444b2204/)
 
 ---
