@@ -9,7 +9,7 @@
 <h3 align="left"> 💻About Me</h3>
 
 <p align="left">
-With hands-on internship experience and as a Computer Science student, I’m dedicated to developing software solutions that bridge technology with real-world needs. My expertise spans backend, frontend, and full-stack development, enabling me to contribute to projects ranging from early-stage prototypes to production-ready systems. I focus on writing clean, reusable code and building user-centric, scalable solutions while thriving in environments that prioritize innovation and continuous learning.
+Computer Science student with hands-on internship and research experience, focused on backend and full-stack development. I build and contribute to production-ready systems using modern frameworks, REST APIs, and CI/CD workflows. I care about clean, maintainable code, scalability, and applying software to real-world problems.
 </p>
 
 ---
