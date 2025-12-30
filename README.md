@@ -24,12 +24,12 @@ Let’s connect and build something awesome together!
 
 <h3 align="left">🛠️ Technical Skills</h3>
 
-**Languages:** Python, Java, JavaScript, TypeScript, SQL
+**Languages:** Python, Java, JavaScript, TypeScript, SQL  
 **Frameworks:** Django, Spring Boot, React, NextJS, NodeJS  
 **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, Supabase  
-**Developer Tools:** Git, GitHub, Postman, Docker, Postman, Render
+**Developer Tools:** Git, GitHub, Postman, Docker, Postman, Render  
 
-**Exploring AI/ML:** NumPy, Pandas, scikit-learn, OpenCV, Tensorflow, Pytorch, n8n, MCP  
+**Exploring AI/ML:** NumPy, Pandas, scikit-learn, OpenCV, Tensorflow, Pytorch, HuggingFace, n8n, MCP  
 
 ---
 
